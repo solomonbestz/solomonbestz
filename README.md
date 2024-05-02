@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Saver Is Safer**
 
-- 🌱 I’m currently learning **Web server and Compiler from scratch**
+- 🌱 I’m currently learning **To Build A Web server and Compiler**
 
 - 👨‍💻 All of my projects are available at [https://github.com/solomonbestz](https://github.com/solomonbestz)
 
