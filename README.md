@@ -12,15 +12,15 @@
 
 - 🔭 I’m currently working on **Saver Is Safer**
 
-- 🌱 I’m currently learning **To Build A Web server and Compiler**
+- 🌱 I’m currently **Building A Web Framework, DOD Game Programming Language and Web UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/solomonbestz](https://github.com/solomonbestz)
 
-- 💬 Ask me about **Python, Django, Javascript, Pygame, C**
+- 💬 Ask me about **Python, Django, fastapi, Javascript, typescript, C and a little bit of rust**
 
 - 📫 How to reach me **ugochukwuazowenu@gmail.com**
 
-- ⚡ Fun fact **I love going deeper into the inner layers of coding**
+- ⚡ Fun fact **I love going deeper into the inner layers of tech and i have not gotten there yet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
